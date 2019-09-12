@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## 2019 Supercomputing LLVM Compiler Birds of a Feather
 
-You can use the [editor on GitHub](https://github.com/llvmbof/llvmbof.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](http://llvm.org/img/DragonMedium.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The [LLVM](http://llvm.org/) compiler infrastructure is a core open-source project powering compilers and language-processing tools, both open source and proprietary, across the HPC ecosystem. In this BoF, a group of LLVM experts who are driving the development of LLVM will give short presentations of their work, then answer your questions on LLVM and its future in HPC. 
 
-### Markdown
+Our experts will include core LLVM developers as well as contributors from ARM, Intel, NVIDIA, and other vendors.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Our goal is to connect you with LLVM experts so that you understand some of the uses of LLVM, and they understand what tools and LLVM enhancements you desire.
 
-```markdown
-Syntax highlighted code block
+### Logistics
+Date/Time: Wed Nov 20, 5:15pm-6:45pm
+Room: 501-502
 
-# Header 1
-## Header 2
-### Header 3
+### Agenda
+| Start Time | End Time | Speaker | Topic | 
+|-------|--------|---------|---------|
+| 5:15 | 5:25 | Hal Finkel (Argonne National Lab) | Introduction to LLVM |
+| 5:25 | 5:28 | Will Lovett (Arm) | Arm Compiler Update |
+| 5:28 | 5:31 | John Leidel (TactCompLabs) | Hardware Design with LLVM |
+| 5:31 | 5:34 | Xinmin Tian (Intel) | Intel Languages and Compilers for dGPU |
+| 5:34 | 5:37 | Stephen Scalpone (NVIDIA) | LLVM Flang Update |
+| 5:37 | 6:35 | N/A | Open Participant Discussion |
+| 6:35 | 6:45 | Hal Finkel (Argonne National Lab) | Closing Remarks |
 
-- Bulleted
-- List
+### Organizers
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/llvmbof/llvmbof.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Dr. Hal Finkel : Argonne National Laboratory
+* Dr. James Brodman : Intel
+* Dr. John Leidel: Tactical Computing Laboratories
