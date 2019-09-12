@@ -12,6 +12,12 @@ Our goal is to connect you with LLVM experts so that you understand some of the 
 Date/Time: Wed Nov 20, 5:15pm-6:45pm
 Room: 501-502
 
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
+
 ### Agenda
 | Start Time | End Time | Speaker | Topic | 
 |-------|--------|---------|---------|
@@ -22,6 +28,7 @@ Room: 501-502
 | 5:34 | 5:37 | Stephen Scalpone (NVIDIA) | LLVM Flang Update |
 | 5:37 | 6:35 | N/A | Open Participant Discussion |
 | 6:35 | 6:45 | Hal Finkel (Argonne National Lab) | Closing Remarks |
+{: .tablelines}
 
 ### Organizers
 
