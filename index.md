@@ -1,9 +1,3 @@
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-        border: 1px solid black;
-        }
-</style>
-
 ## 2019 Supercomputing LLVM Compiler Birds of a Feather
 
 <p align="center">
