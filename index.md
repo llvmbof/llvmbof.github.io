@@ -1,6 +1,14 @@
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
+
 ## 2019 Supercomputing LLVM Compiler Birds of a Feather
 
+<p align="center">
 ![LLVM](/imgs/DragonMedium.png)
+<p>
 
 The [LLVM](http://llvm.org/) compiler infrastructure is a core open-source project powering compilers and language-processing tools, both open source and proprietary, across the HPC ecosystem. In this BoF, a group of LLVM experts who are driving the development of LLVM will give short presentations of their work, then answer your questions on LLVM and its future in HPC. 
 
@@ -11,12 +19,6 @@ Our goal is to connect you with LLVM experts so that you understand some of the 
 ### Logistics
 Date/Time: Wed Nov 20, 5:15pm-6:45pm
 Room: 501-502
-
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-        border: 1px solid black;
-        }
-</style>
 
 ### Agenda
 | Start Time | End Time | Speaker | Topic | 
