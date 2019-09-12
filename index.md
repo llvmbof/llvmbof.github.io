@@ -12,12 +12,6 @@ Our goal is to connect you with LLVM experts so that you understand some of the 
 Date/Time: Wed Nov 20, 5:15pm-6:45pm
 Room: 501-502
 
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-        border: 1px solid black;
-        }
-</style>
-
 ### Agenda
 | Start Time | End Time | Speaker | Topic | 
 |-------|--------|---------|---------|
