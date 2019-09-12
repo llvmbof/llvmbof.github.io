@@ -1,6 +1,6 @@
 ## 2019 Supercomputing LLVM Compiler Birds of a Feather
 
-![Image](http://llvm.org/img/DragonMedium.png)
+<img src="http://llvm.org/img/DragonMedium.png" alt="hi" class="inline"/>
 
 The [LLVM](http://llvm.org/) compiler infrastructure is a core open-source project powering compilers and language-processing tools, both open source and proprietary, across the HPC ecosystem. In this BoF, a group of LLVM experts who are driving the development of LLVM will give short presentations of their work, then answer your questions on LLVM and its future in HPC. 
 
