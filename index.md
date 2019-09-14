@@ -19,7 +19,7 @@ Room: 501-502
 * 5:31 - 5:34 | Xinmin Tian (Intel) | Intel Languages and Compilers for dGPU
 * 5:34 - 5:37 | Stephen Scalpone (NVIDIA) | LLVM Flang Update
 * 5:37 - 5:40 | Muthu Baskaran/Benoit Meister | Reservoir Labs LLVM Development
-* 5:37 - 6:35 | N/A | Open Participant Discussion
+* 5:40 - 6:35 | N/A | Open Participant Discussion
 * 6:35 - 6:45 | Hal Finkel (Argonne National Lab) | Closing Remarks
 
 
